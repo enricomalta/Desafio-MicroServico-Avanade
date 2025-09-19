@@ -16,3 +16,4 @@ d:\Dados\Coding\DIO\desafio\Common\obj\Debug\net9.0\Common.dll
 d:\Dados\Coding\DIO\desafio\Common\obj\Debug\net9.0\refint\Common.dll
 d:\Dados\Coding\DIO\desafio\Common\obj\Debug\net9.0\Common.pdb
 d:\Dados\Coding\DIO\desafio\Common\obj\Debug\net9.0\ref\Common.dll
+D:\Dados\Coding\DIO\desafio\Common\obj\Debug\net9.0\Common.sourcelink.json

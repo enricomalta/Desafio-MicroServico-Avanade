@@ -1,16 +1,14 @@
 # Microserviços - Estoque e Vendas
 
 ## Visão Geral
-Este projeto é uma solução de microserviços simples construída em **.NET**, contendo:
+Este projeto é uma solução de microserviços simples construída em **.NET 9**, contendo:
 
-- **ApiGateway (Ocelot)**: Roteia requisições externas para os serviços internos.
-- **Microservice.Estoque**: CRUD básico de produtos, atualmente sem autenticação ativa.
-- **Microservice.Vendas**: Criação e listagem de pedidos, protegido por JWT.
- - **Microservice.Estoque**: CRUD básico de produtos e consumidor RabbitMQ para processar reservas de estoque (hosted service).
- - **Microservice.Vendas**: Criação e listagem de pedidos, protegido por JWT.
-- **Common**: Contém DTOs e utilitários, incluindo geração e validação de JWT.
-- **Mensageria**: RabbitMQ (publicação de eventos do serviço de Vendas; consumo ainda não implementado no Estoque).
-- **Persistência**: EF Core, cada serviço com seu próprio `AppDbContext`.
+- **ApiGateway (Ocelot)**: roteia requisições externas para os serviços internos e realiza validação de JWT antes de rotear (carrega `Jwt:PublicKeyPath` ou `JWT_PUBLIC_KEY_PATH`).
+- **Microservice.Estoque**: CRUD de produtos e consumidor RabbitMQ (HostedService) para processar reservas de estoque; endpoints protegidos por JWT.
+- **Microservice.Vendas**: criação e listagem de pedidos, protegido por JWT; publica eventos para abatimento de estoque na fila `estoque`.
+- **Common**: DTOs e utilitários (incluindo `JwtHandler` para geração/validação RSA).
+- **Mensageria**: RabbitMQ — publisher em Vendas e consumer em Estoque; filas e mensagens configuradas como duráveis/persistentes; consumer implementa retry, DLQ e idempotência.
+- **Persistência**: EF Core, cada serviço possui seu próprio `AppDbContext`.
 - **Logging**: Serilog integrado em Estoque e Vendas.
 
 > Todos os arquivos principais incluem comentários explicativos sem alterar a lógica existente.

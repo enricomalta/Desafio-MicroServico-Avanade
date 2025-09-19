@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2kH6iqa7nlY=",
+  "dgSpecHash": "enGD0inCQF8=",
   "success": true,
-  "projectFilePath": "d:\\Dados\\Coding\\DIO\\desafio\\Microservice.Estoque\\Microservice.Estoque.csproj",
+  "projectFilePath": "D:\\Dados\\Coding\\DIO\\desafio\\Microservice.Estoque\\Microservice.Estoque.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Enrico\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Enrico\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

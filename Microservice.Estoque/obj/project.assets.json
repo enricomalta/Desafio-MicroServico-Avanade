@@ -5441,11 +5441,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\Dados\\Coding\\DIO\\desafio\\Microservice.Estoque\\Microservice.Estoque.csproj",
+      "projectUniqueName": "D:\\Dados\\Coding\\DIO\\desafio\\Microservice.Estoque\\Microservice.Estoque.csproj",
       "projectName": "Microservice.Estoque",
-      "projectPath": "d:\\Dados\\Coding\\DIO\\desafio\\Microservice.Estoque\\Microservice.Estoque.csproj",
+      "projectPath": "D:\\Dados\\Coding\\DIO\\desafio\\Microservice.Estoque\\Microservice.Estoque.csproj",
       "packagesPath": "C:\\Users\\Enrico\\.nuget\\packages\\",
-      "outputPath": "d:\\Dados\\Coding\\DIO\\desafio\\Microservice.Estoque\\obj\\",
+      "outputPath": "D:\\Dados\\Coding\\DIO\\desafio\\Microservice.Estoque\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Enrico\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -5460,8 +5460,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "D:\\Dados\\Coding\\DIO\\desafio\\Common\\Common.csproj": {
-              "projectPath": "D:\\Dados\\Coding\\DIO\\desafio\\Common\\Common.csproj"
+            "d:\\Dados\\Coding\\DIO\\desafio\\Common\\Common.csproj": {
+              "projectPath": "d:\\Dados\\Coding\\DIO\\desafio\\Common\\Common.csproj"
             }
           }
         }

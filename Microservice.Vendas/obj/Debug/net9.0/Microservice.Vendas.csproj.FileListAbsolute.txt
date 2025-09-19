@@ -233,3 +233,4 @@ d:\Dados\Coding\DIO\desafio\Microservice.Vendas\obj\Debug\net9.0\refint\Microser
 d:\Dados\Coding\DIO\desafio\Microservice.Vendas\obj\Debug\net9.0\Microservice.Vendas.pdb
 d:\Dados\Coding\DIO\desafio\Microservice.Vendas\obj\Debug\net9.0\Microservice.Vendas.genruntimeconfig.cache
 d:\Dados\Coding\DIO\desafio\Microservice.Vendas\obj\Debug\net9.0\ref\Microservice.Vendas.dll
+D:\Dados\Coding\DIO\desafio\Microservice.Vendas\obj\Debug\net9.0\Microservice.Vendas.sourcelink.json

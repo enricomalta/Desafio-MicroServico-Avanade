@@ -113,3 +113,4 @@ d:\Dados\Coding\DIO\desafio\ApiGateway\obj\Debug\net9.0\refint\ApiGateway.dll
 d:\Dados\Coding\DIO\desafio\ApiGateway\obj\Debug\net9.0\ApiGateway.pdb
 d:\Dados\Coding\DIO\desafio\ApiGateway\obj\Debug\net9.0\ApiGateway.genruntimeconfig.cache
 d:\Dados\Coding\DIO\desafio\ApiGateway\obj\Debug\net9.0\ref\ApiGateway.dll
+D:\Dados\Coding\DIO\desafio\ApiGateway\obj\Debug\net9.0\ApiGateway.sourcelink.json

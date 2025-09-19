@@ -5471,11 +5471,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Dados\\Coding\\DIO\\desafio\\Microservice.Vendas\\Microservice.Vendas.csproj",
+      "projectUniqueName": "d:\\Dados\\Coding\\DIO\\desafio\\Microservice.Vendas\\Microservice.Vendas.csproj",
       "projectName": "Microservice.Vendas",
-      "projectPath": "D:\\Dados\\Coding\\DIO\\desafio\\Microservice.Vendas\\Microservice.Vendas.csproj",
+      "projectPath": "d:\\Dados\\Coding\\DIO\\desafio\\Microservice.Vendas\\Microservice.Vendas.csproj",
       "packagesPath": "C:\\Users\\Enrico\\.nuget\\packages\\",
-      "outputPath": "D:\\Dados\\Coding\\DIO\\desafio\\Microservice.Vendas\\obj\\",
+      "outputPath": "d:\\Dados\\Coding\\DIO\\desafio\\Microservice.Vendas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Enrico\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -5490,8 +5490,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "D:\\Dados\\Coding\\DIO\\desafio\\Common\\Common.csproj": {
-              "projectPath": "D:\\Dados\\Coding\\DIO\\desafio\\Common\\Common.csproj"
+            "d:\\Dados\\Coding\\DIO\\desafio\\Common\\Common.csproj": {
+              "projectPath": "d:\\Dados\\Coding\\DIO\\desafio\\Common\\Common.csproj"
             }
           }
         }

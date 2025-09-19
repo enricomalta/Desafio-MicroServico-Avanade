@@ -227,3 +227,4 @@ d:\Dados\Coding\DIO\desafio\Microservice.Estoque\obj\Debug\net9.0\refint\Microse
 d:\Dados\Coding\DIO\desafio\Microservice.Estoque\obj\Debug\net9.0\Microservice.Estoque.pdb
 d:\Dados\Coding\DIO\desafio\Microservice.Estoque\obj\Debug\net9.0\Microservice.Estoque.genruntimeconfig.cache
 d:\Dados\Coding\DIO\desafio\Microservice.Estoque\obj\Debug\net9.0\ref\Microservice.Estoque.dll
+D:\Dados\Coding\DIO\desafio\Microservice.Estoque\obj\Debug\net9.0\Microservice.Estoque.sourcelink.json
