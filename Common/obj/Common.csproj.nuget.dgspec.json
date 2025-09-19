@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Dados\\Coding\\DIO\\desafio\\Common\\Common.csproj": {}
+    "D:\\Dados\\Coding\\DIO\\desafio\\Common\\Common.csproj": {}
   },
   "projects": {
-    "d:\\Dados\\Coding\\DIO\\desafio\\Common\\Common.csproj": {
+    "D:\\Dados\\Coding\\DIO\\desafio\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Dados\\Coding\\DIO\\desafio\\Common\\Common.csproj",
+        "projectUniqueName": "D:\\Dados\\Coding\\DIO\\desafio\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "d:\\Dados\\Coding\\DIO\\desafio\\Common\\Common.csproj",
+        "projectPath": "D:\\Dados\\Coding\\DIO\\desafio\\Common\\Common.csproj",
         "packagesPath": "C:\\Users\\Enrico\\.nuget\\packages\\",
-        "outputPath": "d:\\Dados\\Coding\\DIO\\desafio\\Common\\obj\\",
+        "outputPath": "D:\\Dados\\Coding\\DIO\\desafio\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Enrico\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -106,16 +106,6 @@ Este projeto é uma solução de microserviços em **.NET 9**, com arquitetura m
 
 ---
 
-## Próximos Passos
-
-- Autenticação centralizada no ApiGateway.
-- Refatoração para DTOs e camada de Application (Commands/Handlers).
-- Implementação de health checks e observabilidade.
-- Versionamento de API (`/api/v1/...`).
-- CI/CD para deploy contínuo.
-- Introdução de políticas de retry, circuit-breaker, rate limiting e segurança de filas.
-
----
 
 ## Nota importante: Demo vs Produção
 

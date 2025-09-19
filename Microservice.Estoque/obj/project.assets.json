@@ -5460,8 +5460,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "d:\\Dados\\Coding\\DIO\\desafio\\Common\\Common.csproj": {
-              "projectPath": "d:\\Dados\\Coding\\DIO\\desafio\\Common\\Common.csproj"
+            "D:\\Dados\\Coding\\DIO\\desafio\\Common\\Common.csproj": {
+              "projectPath": "D:\\Dados\\Coding\\DIO\\desafio\\Common\\Common.csproj"
             }
           }
         }
