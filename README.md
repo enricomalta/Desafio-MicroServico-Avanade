@@ -155,7 +155,7 @@ Variáveis de ambiente suportadas (exemplos):
 Executando localmente com Docker (RabbitMQ + SQL Server):
 
 ```powershell
-cd d:\Dados\Coding\DIO\desafio
+cd C:\path\to\Desafio-MicroServico-Avanade
 docker-compose up -d
 
 # Exportar variáveis (PowerShell example)
