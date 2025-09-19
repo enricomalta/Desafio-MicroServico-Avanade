@@ -79,12 +79,11 @@ Este projeto é uma solução de microserviços em **.NET 9**, com arquitetura m
 2. Validar JWT no ApiGateway e nos serviços. ✔️
 3. Usar DTOs nos controllers. ✔️
 4. Implementar padrão outbox. ⏳ Parcial
-5. Reutilizar conexões RabbitMQ. ⏳ Parcial
-6. Adicionar testes de integração. ⏳ Parcial
-7. Restringir CORS em produção. ⏳ Parcial
-8. Monitorar e rotacionar chaves JWT. ⏳ Parcial
-9. Adicionar logs de negócio e correlation ID. ✔️
-10. Configurar pipeline CI/CD. ⏳ Parcial
+5. Adicionar testes de integração. ⏳ Parcial
+6. Restringir CORS em produção. ⏳ Parcial
+7. Monitorar e rotacionar chaves JWT. ⏳ Parcial
+8. Adicionar logs de negócio e correlation ID. ✔️
+9. Configurar pipeline CI/CD. ⏳ Parcial
 
 ---
 
