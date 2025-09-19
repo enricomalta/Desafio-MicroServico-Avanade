@@ -1,0 +1,8 @@
+<Project>
+  <PropertyGroup>
+    <!-- Ensure project lockfile assemblies are copied locally so IDE analyzers can resolve project references -->
+    <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
+    <!-- Keep deterministic outputs to help language servers index the build artifacts -->
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+</Project>

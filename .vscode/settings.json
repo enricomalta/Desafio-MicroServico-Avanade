@@ -1,0 +1,6 @@
+{
+  "omnisharp.useModernNet": true,
+  "omnisharp.enableRoslynAnalyzers": false,
+  "csharp.suppressDotnetRestoreNotification": true,
+  "dotnet.formatting.organizeImportsOnFormat": false
+}
