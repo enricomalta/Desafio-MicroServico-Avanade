@@ -60,17 +60,15 @@ Este projeto é uma solução de microserviços em **.NET 9**, com arquitetura m
 	- ✔️ Implementado: Controllers usam DTOs para entrada/saída.
 4. Implementar padrão outbox para garantir atomicidade entre DB e mensageria.
 	- ⏳ Parcial: Idempotência e DLQ implementados; padrão outbox está documentado como recomendação.
-5. Reutilizar conexões RabbitMQ (singleton) para performance.
-	- ⏳ Parcial: Conexão criada por publisher/consumer; recomendação de singleton documentada.
-6. Adicionar testes de integração end-to-end.
+5. Adicionar testes de integração end-to-end.
 	- ⏳ Parcial: Testes unitários implementados; integração recomendada.
-7. Restringir CORS e proteger endpoints sensíveis.
+6. Restringir CORS e proteger endpoints sensíveis.
 	- ⏳ Parcial: CORS aberto para testes locais; restrição recomendada para produção.
-8. Monitorar e rotacionar chaves JWT.
+7. Monitorar e rotacionar chaves JWT.
 	- ⏳ Parcial: Suporte a rotação previsto; rotação automática não implementada.
-9. Adicionar logs de negócio e correlation ID.
+8. Adicionar logs de negócio e correlation ID.
 	- ✔️ Implementado: Serilog integrado; correlation ID middleware presente.
-10. Configurar pipeline CI/CD para build/test/deploy seguro.
+9. Configurar pipeline CI/CD para build/test/deploy seguro.
 	- ⏳ Parcial: Documentado como recomendação; pipeline não presente no repositório.
 
 ---
