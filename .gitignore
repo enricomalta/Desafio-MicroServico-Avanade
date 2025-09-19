@@ -1,0 +1,64 @@
+# Build e dependências
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Arquivos de log
+logs/
+*.log
+
+# Chaves e segredos (NUNCA versionar em produção)
+ApiGateway/Keys/private.key
+ApiGateway/Keys/public.key
+Tests/JWT/private.key
+Tests/JWT/public.key
+Tests/JWT/jwt.txt
+
+# Configurações locais
+.vscode/
+*.swp
+*.tmp
+
+# Docker artefatos
+*.pid
+*.seed
+*.env
+
+# Arquivos de cobertura e relatórios
+*.coverage
+*.coveragexml
+TestResults/
+*.trx
+
+# Arquivos gerados pelo Visual Studio
+*.dbmdl
+*.pdb
+*.cache
+*.dll
+*.exe
+
+# Arquivos de configuração de IDE
+.idea/
+.vs/
+.vscode/
+
+# Arquivos de migração do EF Core
+Migrations/
+
+# Arquivos de exemplo de chaves (podem ser mantidos para instrução)
+ApiGateway/Keys/keys.example
+Tests/JWT/keys.example
+
+# Outros arquivos sensíveis
+docker-compose.override.yml
+.env
+
+# Ignorar arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Ignorar global.json se for apenas para dev
+global.json
